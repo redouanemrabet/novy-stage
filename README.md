@@ -1,11 +1,11 @@
 # Novy EAPC
 
-Bienvenue dans le dépôt GitLab du projet Novy EAPC !
+Bienvenue dans le dépôt GitLab du projet Novy !
 Ce projet vise à gérer les objectifs annuels et les entretiens avec les employés de l'entreprise `Novelis`.
 
 ## Présentation
 
-Le projet Novy EAPC est une application web qui permet de gérer efficacement les objectifs annuels des employés ainsi que leurs entretiens. Il est composé d'une partie backend développée en `Spring Boot` et d'une partie frontend développée en `Next.js`.
+Le projet Novy  est une application web qui permet de gérer efficacement les objectifs annuels des employés ainsi que leurs entretiens. Il est composé d'une partie backend développée en `Spring Boot` et d'une partie frontend développée en `Next.js`.
 
 ## Technologies Utilisées
 
