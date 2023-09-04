@@ -44,7 +44,16 @@ Le projet Novy  est une application web qui permet de gérer efficacement les ob
 
 ## Captures d'écran
 
-![add_interview](/uploads/0380ca6d7cc691ca16ef2e75f2211720/add_interview.PNG)![add_objectif_for_a_collab](/uploads/71310a03f4ed72a20d1d84c6e88f7978/add_objectif_for_a_collab.PNG)![add_objective_for_admin](/uploads/43a220216678411f71dbd6606ebdec79/add_objective_for_admin.PNG)![all_interviews](/uploads/42a0f67542240bf0e8ef604c5a051c77/all_interviews.PNG)![all_interviewsss](/uploads/2b2aeb0637b1eccd95ec63d252da8de6/all_interviewsss.PNG)![all_objectives](/uploads/3111c3cc6ae915a63a56767ff06fc076/all_objectives.PNG)![answer_questions](/uploads/0b6e7aa3a3005838ad0ab2657b53069a/answer_questions.PNG)![filtre_objectifs](/uploads/2ae6ba8dc9e727d6bab5e2b88a7a72e7/filtre_objectifs.PNG)![my_interview](/uploads/cd13d42d7195c6ba006739f743ffbea2/my_interview.PNG)![my_interview](/uploads/d48ec61ac8c7aeeb3582e5caffe9e52c/my_interview.PNG)![my_interviews](/uploads/4962292d0af770bd2939b7bf30ef0b9f/my_interviews.PNG)
+![add_interview](https://github.com/redouanemrabet/novy-stage/assets/106490380/b5aa7405-0abd-4601-aa4f-e663ce8c0f3a)
+![add_objectif_for_a_collab](https://github.com/redouanemrabet/novy-stage/assets/106490380/f9516466-c7d4-4602-bff1-a848cf95f236)
+![add_objective_for_admin](https://github.com/redouanemrabet/novy-stage/assets/106490380/be12fda9-38d8-466c-976f-f12aceabd523)
+![all_interviews](https://github.com/redouanemrabet/novy-stage/assets/106490380/0a74fd78-48e9-4f60-a34a-406dd67f7317)
+![all_interviewsss](https://github.com/redouanemrabet/novy-stage/assets/106490380/2e152346-b70e-480c-98ea-e27aa94992eb)
+![all_objectives](https://github.com/redouanemrabet/novy-stage/assets/106490380/d4ab79af-42a5-4416-8e84-2818c5e2e52c)
+![answer_questions](https://github.com/redouanemrabet/novy-stage/assets/106490380/4005169e-50fe-4756-b6db-2c61f979a810)
+![filtre_objectifs](https://github.com/redouanemrabet/novy-stage/assets/106490380/92853227-4a2f-4207-a051-361ca49eb52d)
+![my_interview](https://github.com/redouanemrabet/novy-stage/assets/106490380/031ac233-4a67-43da-ac98-f9775d0450e1)
+![my_interviews](https://github.com/redouanemrabet/novy-stage/assets/106490380/6d265ad2-53b4-4ce2-b6c0-629d60cbfb90)
 
 ## Contact
 
